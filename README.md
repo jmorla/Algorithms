@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](#)
 
-This repository is a recopilation of all algoritm and data structures I've been studying in my computer science carrier
+This repository is a compilation of all algorithms and data structures I've been studying in my computer science career
 
 ### Solved Algorithms
   - InsertionSort.java
