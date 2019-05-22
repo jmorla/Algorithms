@@ -1,7 +1,23 @@
 package org.algorithms.introduction.chapter4;
 
+
+/**
+ * @author Jorge L. Morla
+ * @version 1.0
+ * @since 2019
+ * */
 public class MatrixMultiplication {
 
+	
+	/**
+	 * Calculates the product of 2 matrix
+	 * 
+	 * Time complexity: O(n^2)
+	 * @param a, A matrix
+	 * @param b, B Matrix
+	 * 
+	 * @return return [AxB]
+	 * */
 	public static int[][] matrixMultiplication(int[][] a, int[][] b) {
 		
 		int n = a.length;
