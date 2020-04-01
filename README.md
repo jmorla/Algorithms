@@ -32,4 +32,5 @@ This repository is a compilation of all algorithms and data structures I've been
  - LinkedList.java
  - DoublyLinkedList.java
  - BinarySearchTree.java
+ - SimpleQueue.java
 
